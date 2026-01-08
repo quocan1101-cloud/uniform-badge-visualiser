@@ -1,0 +1,42 @@
+{
+  "rankLeftSleeve": {
+    "x": 180,
+    "y": 600,
+    "w": 110,
+    "h": 130,
+    "z": 3,
+    "desc": "Left sleeve rank position"
+  },
+  "safBadges": {
+    "x": 325,
+    "y": 500,
+    "w": 150,
+    "h": 70,
+    "z": 4,
+    "desc": "SAF badges (pyramid, max 3)"
+  },
+  "foreignBadges": {
+    "x": 575,
+    "y": 500,
+    "w": 150,
+    "h": 70,
+    "z": 4,
+    "desc": "Foreign badges (pyramid, max 3)"
+  },
+  "medalsBelowRightPocket": {
+    "x": 575,
+    "y": 600,
+    "w": 150,
+    "h": 100,
+    "z": 4,
+    "desc": "Medals row centered under right pocket"
+  },
+  "rightSleeveProficiency": {
+    "x": 760,
+    "y": 600,
+    "w": 110,
+    "h": 130,
+    "z": 3,
+    "desc": "Right sleeve proficiency badges (vertical)"
+  }
+}

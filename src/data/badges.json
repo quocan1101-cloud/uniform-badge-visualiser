@@ -1,0 +1,98 @@
+{
+  "rank_private": {
+    "label": "Private",
+    "slot": "rankLeftSleeve",
+    "color": "#334155",
+    "category": "rank"
+  },
+  "rank_corporal": {
+    "label": "Corporal",
+    "slot": "rankLeftSleeve",
+    "color": "#0ea5e9",
+    "category": "rank"
+  },
+  "rank_sergeant": {
+    "label": "Sergeant",
+    "slot": "rankLeftSleeve",
+    "color": "#f97316",
+    "category": "rank"
+  },
+  "rank_staff_sgt": {
+    "label": "Staff Sergeant",
+    "slot": "rankLeftSleeve",
+    "color": "#10b981",
+    "category": "rank"
+  },
+  "saf_marksman": {
+    "label": "Badge 1",
+    "slot": "safBadges",
+    "color": "#0ea5e9",
+    "category": "saf"
+  },
+  "saf_best_soldier": {
+    "label": "Badge 2",
+    "slot": "safBadges",
+    "color": "#8b5cf6",
+    "category": "saf"
+  },
+  "saf_parade": {
+    "label": "Badge 3",
+    "slot": "safBadges",
+    "color": "#f59e0b",
+    "category": "saf"
+  },
+  "for_jump_wings": {
+    "label": "Badge 1",
+    "slot": "foreignBadges",
+    "color": "#22c55e",
+    "category": "foreign"
+  },
+  "for_range": {
+    "label": "Badge 2",
+    "slot": "foreignBadges",
+    "color": "#ef4444",
+    "category": "foreign"
+  },
+  "for_exchange": {
+    "label": "Badge 3",
+    "slot": "foreignBadges",
+    "color": "#06b6d4",
+    "category": "foreign"
+  },
+  "med_service": {
+    "label": "Medal 1",
+    "slot": "medalsBelowRightPocket",
+    "color": "#eab308",
+    "category": "medal"
+  },
+  "med_good_conduct": {
+    "label": "Medal 2",
+    "slot": "medalsBelowRightPocket",
+    "color": "#f97316",
+    "category": "medal"
+  },
+  "med_operations": {
+    "label": "Medal 3",
+    "slot": "medalsBelowRightPocket",
+    "color": "#84cc16",
+    "category": "medal"
+  },
+  "med_woah": {
+    "label": "Medal 4",
+    "slot": "medalsBelowRightPocket",
+    "color": "#84cc16",
+    "category": "medal"
+  },
+  "IPPT Gold": {
+    "label": "IPPT Gold",
+    "slot": "rightSleeveProficiency",
+    "color": "#64748b",
+    "category": "proficiency"
+  },
+  "Marksman": {
+    "label": "Marksman",
+    "slot": "rightSleeveProficiency",
+    "color": "#60a5fa",
+    "category": "proficiency"
+  }
+}
